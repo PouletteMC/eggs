@@ -24,6 +24,8 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 ## Please read the CONTRIBUTING.md before submitting PRs
 
+## This Fork adds eggs for nginx and aikar's flags for paper
+
 ## [Bots](/bots/)
 
 [Discord](/bots/discord/)
